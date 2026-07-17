@@ -31,7 +31,7 @@ To take this project to the next level, the following upgrades are planned:
 ---
 
 ## 📸 Dashboard Preview
-## 📸 Dashboard Preview
+
 
 <p align="center">
   <img src="images/Executive Summary.png" width="100%" alt="Executive Summary" />
