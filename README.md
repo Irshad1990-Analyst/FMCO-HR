@@ -37,4 +37,4 @@ To take this project to the next level, the following upgrades are planned:
 
 ## 🚀 How to View the Project
 * **Interactive Report:** [Click Here to View the Live Interactive Dashboard](INSERT_YOUR_PUBLIC_EMBED_LINK_HERE) *(Note: Replace with your public link if available)*
-* **Download Raw File:** Clone this repository and open `FMCO_HR_Analytics.pbix` in Power BI Desktop to explore the data model.
+* **Download Raw File:** Clone this repository and open `FMCO HR DASHBOARD.pbix` in Power BI Desktop to explore the data model.
