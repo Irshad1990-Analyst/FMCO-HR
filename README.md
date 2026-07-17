@@ -36,5 +36,6 @@ To take this project to the next level, the following upgrades are planned:
 ---
 
 ## 🚀 How to View the Project
-* **Interactive Report:** [Click Here to View the Live Interactive Dashboard](INSERT_YOUR_PUBLIC_EMBED_LINK_HERE) *(Note: Replace with your public link if available)*
-* **Download Raw File:** Clone this repository and open `FMCO HR DASHBOARD.pbix` in Power BI Desktop to explore the data model.
+* **Project Status:** This project contains confidential company data for FMCO. For data privacy and security, the live interactive link is restricted.
+* **Visual Preview:** Please refer to the **Dashboard Preview** section above to view the high-quality screenshots of the report layout and design.
+* **Download File:** You can clone this repository and download the `FMCO HR DASHBOARD.pbix` file to explore the data model structure locally.
