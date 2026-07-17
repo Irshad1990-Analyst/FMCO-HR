@@ -31,8 +31,21 @@ To take this project to the next level, the following upgrades are planned:
 ---
 
 ## 📸 Dashboard Preview
-*(Add a high-quality screenshot or an animated GIF of your dashboard here! See instructions below.)*
+## 📸 Dashboard Preview
 
+<p align="center">
+  <img src="images/Executive Summary.png" width="100%" alt="Executive Summary" />
+  <br><br>
+  <img src="images/Attendance & leave.png" width="100%" alt="Attendance and Leave" />
+  <br><br>
+  <img src="images/Employee Lifespan.png" width="100%" alt="Employee Lifespan" />
+  <br><br>
+  <img src="images/Payroll .png" width="100%" alt="Payroll" />
+  <br><br>
+  <img src="images/Ai Visual Information.png" width="100%" alt="AI Visual Information" />
+  <br><br>
+  <img src="images/dashboard_preview.png" width="100%" alt="Dashboard Preview" />
+</p>
 ---
 
 ## 🚀 How to View the Project
